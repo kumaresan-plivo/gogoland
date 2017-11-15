@@ -1,0 +1,432 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/src/gmr/src/clango/heartbeat.go" timestamp="1493327835032">
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="49" column="47" />
+        <mark key="." line="49" column="47" />
+        <mark key="^" line="49" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/third_party/src/gopkg.in/redis.v4/commands.go" timestamp="1493160171783">
+        <mark key="'" line="664" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/go-plivolog/main.go" timestamp="1498905168840">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="33" column="56" />
+        <mark key="." line="33" column="6" />
+        <mark key="^" line="33" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/private/src/libs/plivodb/trunk.go" timestamp="1510758475201">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/balance_service/src/server/rest_server_test.go" timestamp="1495204222546">
+        <mark key="'" line="133" column="5" />
+        <mark key="[" line="999" column="0" />
+        <mark key="]" line="999" column="0" />
+        <mark key="." line="999" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/private/src/libs/plivodb/database.go" timestamp="1493145665779">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="37" column="48" />
+        <mark key="]" line="37" column="55" />
+        <mark key="^" line="37" column="55" />
+        <mark key="." line="37" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/balance_service/server/server.go" timestamp="1493056403139">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/src/balance_service/server/grpc/balance.proto" timestamp="1493054884557">
+        <mark key="'" line="27" column="19" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
+        <mark key="^" line="27" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/src/libs/plivodb/charge.go" timestamp="1493327670027">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="62" />
+        <mark key="." line="34" column="62" />
+        <mark key="^" line="34" column="62" />
+      </file>
+      <file name="$USER_HOME$/src/go-plivolog/.gitignore" timestamp="1498665398523">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/clango/credit_utils.go" timestamp="1510758345644">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/private/src/clango/heartbeat.go" timestamp="1493171686444">
+        <mark key="[" line="76" column="49" />
+        <mark key="]" line="76" column="55" />
+        <mark key="^" line="76" column="55" />
+        <mark key="." line="76" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" timestamp="1498905107912">
+        <mark key="'" line="164" column="32" />
+        <mark key="[" line="211" column="13" />
+        <mark key="]" line="211" column="18" />
+        <mark key="." line="211" column="18" />
+        <mark key="^" line="211" column="18" />
+      </file>
+      <file name="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/hooks/syslog/syslog.go" timestamp="1498898803321">
+        <mark key="'" line="21" column="42" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/src/libs/plivodb/credit.go" timestamp="1493327605352">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+        <mark key="^" line="17" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/balance_service/migration/email.go" timestamp="1493048063833">
+        <mark key="[" line="38" column="74" />
+        <mark key="]" line="38" column="72" />
+        <mark key="." line="38" column="72" />
+        <mark key="^" line="38" column="72" />
+      </file>
+      <file name="/urls.go" timestamp="1493149287474">
+        <mark key="'" line="62" column="58" />
+      </file>
+      <file name="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" timestamp="1498665859446">
+        <mark key="'" line="98" column="14" />
+      </file>
+      <file name="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/logrus.go" timestamp="1498568086262">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="84" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510758478869">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/usr/local/Cellar/go/1.8.1/libexec/src/log/syslog/syslog.go" timestamp="1498899193241">
+        <mark key="'" line="246" column="45" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/libs/plivodb/testutils/populate.go" timestamp="1510758371583">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/private/src/clango/urls.go" timestamp="1493149331257">
+        <mark key="'" line="62" column="58" />
+      </file>
+      <file name="$USER_HOME$/src/balance_service/server/router.go" timestamp="1493040567221">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/src/libs/plivodb/carrier.go" timestamp="1493327729856">
+        <mark key="'" line="18" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/src/libs/plivodb/routing.go" timestamp="1493327743383">
+        <mark key="'" line="29" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" timestamp="1493172138467">
+        <mark key="'" line="135" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/clango/main.go" timestamp="1510758221462">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/.gitmodules" timestamp="1493229225101">
+        <mark key="'" line="21" column="45" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/libs/plivodb/credit.go" timestamp="1510758288354">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/balance_service/config/dev.toml" timestamp="1493048101307">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+      </file>
+      <file name="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" timestamp="1495648896143">
+        <mark key="'" line="91" column="9" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/balance_service/src/usecases/balance_usecases.go" timestamp="1496851820936">
+        <mark key="'" line="321" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/private/src/libs/plivodb/testutils/populate.go" timestamp="1493125123220">
+        <mark key="[" line="1432" column="41" />
+        <mark key="]" line="1432" column="0" />
+        <mark key="^" line="1432" column="0" />
+        <mark key="." line="1432" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" timestamp="1493239462617">
+        <mark key="'" line="254" column="21" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="82" column="70" />
+        <mark key="." line="82" column="67" />
+        <mark key="^" line="82" column="67" />
+      </file>
+      <file name="$USER_HOME$/src/balance_service/src/controllers/rest.go" timestamp="1497703310205">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/src/libs/plivodb/database.go" timestamp="1493327555063">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="44" column="28" />
+        <mark key="^" line="44" column="28" />
+        <mark key="." line="44" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/gmr/private/src/clango/main.go" timestamp="1510756728893">
+        <mark key="'" line="87" column="60" />
+        <mark key="[" line="81" column="29" />
+        <mark key="]" line="84" column="26" />
+        <mark key="^" line="84" column="26" />
+        <mark key="." line="84" column="26" />
+      </file>
+      <file name="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/hooks.go" timestamp="1498716468159">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="35" column="49" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
+      <jump line="37" column="53" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
+      <jump line="40" column="49" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
+      <jump line="130" column="3" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
+      <jump line="134" column="7" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
+      <jump line="135" column="7" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
+      <jump line="71" column="0" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
+      <jump line="248" column="35" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
+      <jump line="16" column="14" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
+      <jump line="252" column="36" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
+      <jump line="22" column="22" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
+      <jump line="250" column="29" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
+      <jump line="254" column="21" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
+      <jump line="21" column="45" filename="$USER_HOME$/src/gmr/.gitmodules" />
+      <jump line="11" column="4" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
+      <jump line="32" column="5" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
+      <jump line="40" column="21" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
+      <jump line="12" column="4" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
+      <jump line="37" column="18" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
+      <jump line="6" column="8" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
+      <jump line="18" column="36" filename="$USER_HOME$/src/gmr/src/libs/plivodb/carrier.go" />
+      <jump line="29" column="23" filename="$USER_HOME$/src/gmr/src/libs/plivodb/routing.go" />
+      <jump line="196" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="19" column="8" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="71" column="31" filename="$USER_HOME$/src/balance_service/src/server/rest_server_test.go" />
+      <jump line="460" column="35" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="43" column="0" filename="$USER_HOME$/src/balance_service/src/server/rest_server_test.go" />
+      <jump line="41" column="0" filename="$USER_HOME$/src/balance_service/src/server/rest_server_test.go" />
+      <jump line="32" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="102" column="39" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="133" column="5" filename="$USER_HOME$/src/balance_service/src/server/rest_server_test.go" />
+      <jump line="161" column="5" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="176" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="180" column="5" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="219" column="18" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="193" column="5" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="200" column="36" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="137" column="19" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="14" column="17" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="662" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="204" column="36" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="146" column="26" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="37" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="136" column="5" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="341" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="107" column="33" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="122" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="117" column="47" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="223" column="25" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="210" column="5" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="315" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="205" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="188" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="25" column="8" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="84" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="123" column="9" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
+      <jump line="321" column="0" filename="$USER_HOME$/src/balance_service/src/usecases/balance_usecases.go" />
+      <jump line="89" column="0" filename="$USER_HOME$/src/balance_service/src/controllers/rest.go" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/balance_service/src/controllers/rest.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/balance_service/src/controllers/rest.go" />
+      <jump line="13" column="4" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="70" column="8" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="72" column="11" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="59" column="13" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="81" column="4" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="77" column="34" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="87" column="8" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="56" column="13" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="78" column="99" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="28" column="12" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
+      <jump line="46" column="22" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
+      <jump line="48" column="16" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
+      <jump line="57" column="29" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
+      <jump line="84" column="32" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
+      <jump line="95" column="20" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
+      <jump line="96" column="14" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
+      <jump line="98" column="14" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
+      <jump line="110" column="11" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="4" column="4" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="90" column="17" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="118" column="34" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="80" column="4" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="99" column="23" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="155" column="0" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="150" column="0" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="156" column="16" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="188" column="32" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="21" column="42" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/hooks/syslog/syslog.go" />
+      <jump line="25" column="6" filename="/usr/local/Cellar/go/1.8.1/libexec/src/log/syslog/syslog.go" />
+      <jump line="246" column="45" filename="/usr/local/Cellar/go/1.8.1/libexec/src/log/syslog/syslog.go" />
+      <jump line="160" column="32" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
+      <jump line="29" column="4" filename="$USER_HOME$/src/gmr/private/src/clango/main.go" />
+      <jump line="87" column="60" filename="$USER_HOME$/src/gmr/private/src/clango/main.go" />
+      <jump line="0" column="1" filename="$USER_HOME$/src/gmr/private/src/clango/etc/config.toml" />
+      <jump line="32" column="16" filename="$USER_HOME$/src/gmr/private/src/clango/etc/config.toml" />
+      <jump line="30" column="1" filename="$USER_HOME$/src/gmr/private/src/clango/etc/config.toml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJsaWJzL3BsaXZvZGIvZGJjZmciCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>gmr/</text>
+      </register>
+      <register name="/" type="4">
+        <text>log</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CS8vIERlZmF1bHRzIC0gQ3JlYXRlIGEgbG9nZ2VyIGZvciBjb25zb2xlIGFuZCBzeXNsb2cgYW5kIHVzZSBpdAoJbCwgXyA6PSBwbGl2b2xvZy5OZXcoKQoJbC5JbmZvZigiVGVzdCAlcyIsICJsb2dnaW5nIHN0dWZmIikKCgkvLyBDcmVhdGUgYW4gYXVkaXQgbG9nCglsLkF1ZGl0TG9nKCJNQTEyMzQ1Njc4OTAiLCAiTUFLRV9DQUxMIiwgIkFQSSIsICJDYWxsIEFQSSBpbml0aWF0ZWQiLCAiU1VDQ0VTUyIpCgoJLy8gQXVkaXQgbG9nIHdpdGggc3ViamVjdCBhbmQgbm90ZXMKCW5vdGVzIDo9IG1hcFtzdHJpbmddaW50ZXJmYWNle317ImNhcmRfaWQiOiAiY2FfMTIzNDU2Nzg5In0KCWwuQXVkaXRMb2coInN1cHBvcnQtdXNlckBwbGl2by5jb20iLAoJCSJWRVJJRllfQ0MiLAoJCSJBRE1JTiIsCgkJIlZlcmlmeWluZyBjcmVkaXQgY2FyZCBmb3IgdXNlciIsCgkJIlNVQ0NFU1MiLAoJCXBsaXZvbG9nLk9wdGlvblN1YmplY3QoInVzZXJAZW1haWwuY29tIiksCgkJcGxpdm9sb2cuT3B0aW9uU3ViamVjdFR5cGUoIlVTRVIiKSwKCQlwbGl2b2xvZy5PcHRpb25Ob3Rlcyhub3RlcykpCgoJLy8gT3B0aW9uYWwgLSBTZXQgbG9nIGxldmVsIHRvIGluZm8gd2hpbGUgbG9nZ2luZyB0byBhIGxvZ2ZpbGUKCWwsIF8gPSBwbGl2b2xvZy5OZXcocGxpdm9sb2cuT3B0aW9uTG9nZmlsZSgiL3RtcC9sb2dmaWxlIikpCglsLkVycm9yKCJUaGlzIGdvZXMgdG8gYm90aCBzeXNsb2cgYW5kIGxvZ2ZpbGUiKQoKCS8vIE9wdGlvbmFsIC0gY3VzdG9taXplIHN5c2xvZwoJbG9nX2ZhY2lsaXR5IDo9IHBsaXZvbG9nLlByaW9yaXR5KGludChwbGl2b2xvZy5MT0dfTE9DQUw0KSB8IGludChwbGl2b2xvZy5MT0dfSU5GTykpCglsLCBfID0gcGxpdm9sb2cuTmV3KHBsaXZvbG9nLk9wdGlvblN5c2xvZ0FkZHJlc3MoInJlbW90ZS5pcC5hZGRyZXNzIiksCgkJcGxpdm9sb2cuT3B0aW9uUHJpb3J0eShsb2dfZmFjaWxpdHkpKQoJbC5XYXJuKCJUaGlzIGdvZXMgdG8gYm90aCBzeXNsb2cgb24gbG9jYWw0IGZhY2lsaXR5IikK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CSJsaWJzL3BsaXZvZGIvZGJjZmciCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CSJnbXIvbGlicy9wbGl2b2RiIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIFNpbXBsZSBsb2dnaW5nIHdpdGggbG9nIGxldmVsIGRlYnVnIGFuZCBzeXNsb2cgZmFjaWxpdHkgc2V0IHRvICd1c2VyJyBhbmQgbGV2ZWwgdG8gZGVidWcKICAgIExvZyA6PSBwbGl2b2xvZy5Jbml0KDAsIDAsICIvdmFyL2xvZy9wbGl2by5sb2ciKQogICAgCiAgICAvLyBTZXQgbG9nIGxldmVsIHRvIGluZm8gd2hpbGUgbG9nZ2luZyB0byBsb2dmaWxlCiAgICBpbXBvcnQgImdpdGh1Yi5jb20vU2lydXBzZW4vbG9ncnVzIgogICAgTG9nIDo9IHBsaXZvbG9nLkluaXQobG9ncnVzLkluZm9MZXZlbCwgMCwgIi92YXIvbG9nL3BsaXZvLmxvZyIpCiAgICAKICAgIC8vIFNldCBsb2cgbGV2ZWwgdG8gaW5mbyBmb3IgbG9nZ2luZyB0byBhIGxvZyBmaWxlCiAgICAvLyBhbmQgZmFjaWxpdHkgdG8gJ3VzZXInIGFuZCBsb2cgbGV2ZWwgdG8gaW5mbyBmb3Igc3lzbG9nIGxvZ2dpbmcKICAgIGltcG9ydCAiZ2l0aHViLmNvbS9TaXJ1cHNlbi9sb2dydXMiCiAgICBpbXBvcnQgImxvZy9zeXNsb2ciCiAgICBMb2cgOj0gcGxpdm9sb2cuSW5pdChsb2dydXMuSW5mb0xldmVsLCBzeXNsb2cuTE9HX1VTRVJ8c3lzbG9nLkxPR19JTkZPLCAiL3Zhci9sb2cvcGxpdm8ubG9nIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CSJsb2ciCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXBsaXZvbG9nLk9wdGlvbk5vdGVzKG5vdGVzKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CS8vIEF1ZGl0IGxvZyB3aXRoIG9wdGlvbnMKCWwuQXVkaXRMb2coIk1BMTIzNDU2Nzg5MCIsICJNQUtFX0NBTEwiLCAiQVBJIiwgIkNhbGwgQVBJIGluaXRpYXRlZCIsICJTVUNDRVNTIikKCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CWxvZy5hdWRpdGxvZyhhY3Rpb249IlZFUklGWV9DQyIsIGFjdG9yPSJzdXBwb3J0LXVzZXJAcGxpdm8uY29tIiwgYWN0b3JfdHlwZT0iQURNSU4iLAoJCW1lc3NhZ2U9IlZlcmlmaXlpbmcgY3JlZGl0IGNhcmQgZm9yIHVzZXIiLAoJCXN1YmplY3Q9InVzZXJAZW1haWwuY29tIiwgc3ViamVjdF90eXBlPSJVU0VSIiwKCQlub3Rlcz17ImNhcmRfaWQiOiAiY2FfMjM0MjM0MjIzNCJ9LCBzdGF0dXM9IlNVQ0NFU1MiKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>log</last-search>
+      <last-offset />
+      <last-pattern>log</last-pattern>
+      <last-replace />
+      <last-substitute>,</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>teardo</entry>
+        <entry encoding="base64">XDx1cGRhdGVDb3VudFw+</entry>
+        <entry encoding="base64">XDxmdW5jXD4=</entry>
+        <entry encoding="base64">XDxnZXRVcGRhdGVPYmplY3RcPg==</entry>
+        <entry>url</entry>
+        <entry encoding="base64">XDxiYWxhbmNlU3ZjVXJsXD4=</entry>
+        <entry>config.</entry>
+        <entry>config.ini</entry>
+        <entry>updateCoun</entry>
+        <entry encoding="base64">XDxQTG9nXD4=</entry>
+        <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxsb2dydXNfc3lzbG9nXD4=</entry>
+        <entry>JsonForm</entry>
+        <entry encoding="base64">XDxsZXZlbFw+</entry>
+        <entry>,</entry>
+        <entry>asdf</entry>
+        <entry encoding="base64">XDxwcmlvcml0eVw+</entry>
+        <entry encoding="base64">XDxzZXZlcml0eU1hc2tcPg==</entry>
+        <entry>initial</entry>
+        <entry>log</entry>
+      </history-search>
+      <history-cmd>
+        <entry>Q</entry>
+        <entry encoding="base64">JzwsJz5zL2N0eC4vL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2FjYy5JZC9hY2NJZC9n</entry>
+        <entry>%s/Updated/credit:updated/g</entry>
+        <entry>252</entry>
+        <entry>qa</entry>
+        <entry>61</entry>
+        <entry>67</entry>
+        <entry>insert</entry>
+        <entry>%s/RecordNotFound/ErrRecordNotFound/g</entry>
+        <entry>W</entry>
+        <entry>167</entry>
+        <entry>206</entry>
+        <entry>152</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5yZWc=</entry>
+        <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
+        <entry>e</entry>
+        <entry>d</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
