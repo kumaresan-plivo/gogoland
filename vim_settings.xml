@@ -18,12 +18,12 @@
         <mark key="." line="33" column="6" />
         <mark key="^" line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" timestamp="1512590864466">
+      <file name="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" timestamp="1512591561944">
         <mark key="'" line="130" column="53" />
-        <mark key="[" line="181" column="20" />
-        <mark key="]" line="181" column="20" />
-        <mark key="." line="181" column="20" />
-        <mark key="^" line="181" column="19" />
+        <mark key="[" line="128" column="29" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="134" column="0" />
       </file>
       <file name="$USER_HOME$/src/gmr/private/src/libs/plivodb/trunk.go" timestamp="1510758475201">
         <mark key="[" line="3" column="6" />
@@ -164,7 +164,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/dlv-debug.txt" timestamp="1512590844805">
+      <file name="/dlv-debug.txt" timestamp="1512591278302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/gmr/libs/plivodb/credit.go" timestamp="1510758288354">
