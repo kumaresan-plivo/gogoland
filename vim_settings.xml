@@ -18,17 +18,18 @@
         <mark key="." line="33" column="6" />
         <mark key="^" line="33" column="11" />
       </file>
+      <file name="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" timestamp="1512586691692">
+        <mark key="'" line="23" column="9" />
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="9" />
+        <mark key="^" line="91" column="50" />
+        <mark key="." line="23" column="9" />
+      </file>
       <file name="$USER_HOME$/src/gmr/private/src/libs/plivodb/trunk.go" timestamp="1510758475201">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="8" />
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
-      </file>
-      <file name="$USER_HOME$/src/balance_service/src/server/rest_server_test.go" timestamp="1495204222546">
-        <mark key="'" line="133" column="5" />
-        <mark key="[" line="999" column="0" />
-        <mark key="]" line="999" column="0" />
-        <mark key="." line="999" column="0" />
       </file>
       <file name="$USER_HOME$/src/gmr/private/src/libs/plivodb/database.go" timestamp="1493145665779">
         <mark key="'" line="7" column="0" />
@@ -61,6 +62,13 @@
         <mark key="]" line="4" column="6" />
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/inventory-mgmt/src/models/mock_models.go" timestamp="1512585545104">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="104" column="20" />
+        <mark key="]" line="104" column="20" />
+        <mark key="^" line="107" column="6" />
+        <mark key="." line="104" column="20" />
       </file>
       <file name="$USER_HOME$/src/gmr/clango/credit_utils.go" timestamp="1510758345644">
         <mark key="[" line="5" column="6" />
@@ -106,6 +114,18 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" timestamp="1512586459752">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="134" column="58" />
+        <mark key="." line="200" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" timestamp="1512584050692">
+        <mark key="[" line="190" column="48" />
+        <mark key="]" line="191" column="35" />
+        <mark key="^" line="191" column="35" />
+        <mark key="." line="191" column="35" />
+      </file>
       <file name="/Dummy.txt" timestamp="1510758478869">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,12 +163,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/gmr/.gitmodules" timestamp="1493229225101">
-        <mark key="'" line="21" column="45" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/src/gmr/libs/plivodb/credit.go" timestamp="1510758288354">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -160,12 +174,6 @@
         <mark key="]" line="33" column="35" />
         <mark key="." line="33" column="35" />
         <mark key="^" line="33" column="35" />
-      </file>
-      <file name="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" timestamp="1495648896143">
-        <mark key="'" line="91" column="9" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/src/balance_service/src/usecases/balance_usecases.go" timestamp="1496851820936">
         <mark key="'" line="321" column="0" />
@@ -209,26 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="49" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
-      <jump line="37" column="53" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
-      <jump line="40" column="49" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
-      <jump line="130" column="3" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
-      <jump line="134" column="7" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
-      <jump line="135" column="7" filename="$USER_HOME$/src/gmr/third_party/src/github.com/plivo/decimal/decimal.go" />
-      <jump line="71" column="0" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
-      <jump line="248" column="35" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
-      <jump line="16" column="14" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
-      <jump line="252" column="36" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
-      <jump line="22" column="22" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
-      <jump line="250" column="29" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
-      <jump line="18" column="0" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
-      <jump line="254" column="21" filename="$USER_HOME$/src/gmr/private/src/clango/credit_utils.go" />
-      <jump line="21" column="45" filename="$USER_HOME$/src/gmr/.gitmodules" />
-      <jump line="11" column="4" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
-      <jump line="32" column="5" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
-      <jump line="40" column="21" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
-      <jump line="12" column="4" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
-      <jump line="37" column="18" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
       <jump line="6" column="8" filename="$USER_HOME$/src/gmr/private/src/clango/logging.go" />
       <jump line="18" column="36" filename="$USER_HOME$/src/gmr/src/libs/plivodb/carrier.go" />
       <jump line="29" column="23" filename="$USER_HOME$/src/gmr/src/libs/plivodb/routing.go" />
@@ -309,70 +297,82 @@
       <jump line="0" column="1" filename="$USER_HOME$/src/gmr/private/src/clango/etc/config.toml" />
       <jump line="32" column="16" filename="$USER_HOME$/src/gmr/private/src/clango/etc/config.toml" />
       <jump line="30" column="1" filename="$USER_HOME$/src/gmr/private/src/clango/etc/config.toml" />
+      <jump line="101" column="4" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" />
+      <jump line="159" column="4" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
+      <jump line="186" column="24" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
+      <jump line="98" column="4" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" />
+      <jump line="103" column="29" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" />
+      <jump line="136" column="30" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" />
+      <jump line="137" column="30" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" />
+      <jump line="170" column="4" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" />
+      <jump line="3" column="5" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" />
+      <jump line="97" column="7" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" />
+      <jump line="19" column="4" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
+      <jump line="15" column="9" filename="$USER_HOME$/src/inventory-mgmt/src/models/mock_models.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/inventory-mgmt/src/models/mock_models.go" />
+      <jump line="82" column="12" filename="$USER_HOME$/src/inventory-mgmt/src/models/mock_models.go" />
+      <jump line="100" column="0" filename="$USER_HOME$/src/inventory-mgmt/src/models/mock_models.go" />
+      <jump line="232" column="1" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
+      <jump line="24" column="25" filename="$USER_HOME$/src/inventory-mgmt/src/models/mock_models.go" />
+      <jump line="200" column="46" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases_test.go" />
+      <jump line="23" column="9" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSJsaWJzL3BsaXZvZGIvZGJjZmciCg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>gmr/</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>clear</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8vIERlZmF1bHRzIC0gQ3JlYXRlIGEgbG9nZ2VyIGZvciBjb25zb2xlIGFuZCBzeXNsb2cgYW5kIHVzZSBpdAoJbCwgXyA6PSBwbGl2b2xvZy5OZXcoKQoJbC5JbmZvZigiVGVzdCAlcyIsICJsb2dnaW5nIHN0dWZmIikKCgkvLyBDcmVhdGUgYW4gYXVkaXQgbG9nCglsLkF1ZGl0TG9nKCJNQTEyMzQ1Njc4OTAiLCAiTUFLRV9DQUxMIiwgIkFQSSIsICJDYWxsIEFQSSBpbml0aWF0ZWQiLCAiU1VDQ0VTUyIpCgoJLy8gQXVkaXQgbG9nIHdpdGggc3ViamVjdCBhbmQgbm90ZXMKCW5vdGVzIDo9IG1hcFtzdHJpbmddaW50ZXJmYWNle317ImNhcmRfaWQiOiAiY2FfMTIzNDU2Nzg5In0KCWwuQXVkaXRMb2coInN1cHBvcnQtdXNlckBwbGl2by5jb20iLAoJCSJWRVJJRllfQ0MiLAoJCSJBRE1JTiIsCgkJIlZlcmlmeWluZyBjcmVkaXQgY2FyZCBmb3IgdXNlciIsCgkJIlNVQ0NFU1MiLAoJCXBsaXZvbG9nLk9wdGlvblN1YmplY3QoInVzZXJAZW1haWwuY29tIiksCgkJcGxpdm9sb2cuT3B0aW9uU3ViamVjdFR5cGUoIlVTRVIiKSwKCQlwbGl2b2xvZy5PcHRpb25Ob3Rlcyhub3RlcykpCgoJLy8gT3B0aW9uYWwgLSBTZXQgbG9nIGxldmVsIHRvIGluZm8gd2hpbGUgbG9nZ2luZyB0byBhIGxvZ2ZpbGUKCWwsIF8gPSBwbGl2b2xvZy5OZXcocGxpdm9sb2cuT3B0aW9uTG9nZmlsZSgiL3RtcC9sb2dmaWxlIikpCglsLkVycm9yKCJUaGlzIGdvZXMgdG8gYm90aCBzeXNsb2cgYW5kIGxvZ2ZpbGUiKQoKCS8vIE9wdGlvbmFsIC0gY3VzdG9taXplIHN5c2xvZwoJbG9nX2ZhY2lsaXR5IDo9IHBsaXZvbG9nLlByaW9yaXR5KGludChwbGl2b2xvZy5MT0dfTE9DQUw0KSB8IGludChwbGl2b2xvZy5MT0dfSU5GTykpCglsLCBfID0gcGxpdm9sb2cuTmV3KHBsaXZvbG9nLk9wdGlvblN5c2xvZ0FkZHJlc3MoInJlbW90ZS5pcC5hZGRyZXNzIiksCgkJcGxpdm9sb2cuT3B0aW9uUHJpb3J0eShsb2dfZmFjaWxpdHkpKQoJbC5XYXJuKCJUaGlzIGdvZXMgdG8gYm90aCBzeXNsb2cgb24gbG9jYWw0IGZhY2lsaXR5IikK</text>
+        <text encoding="base64">CWZvciBfLCBpdGVtIDo9IHJhbmdlIGZha2VNb2RlbHMuSXRlbXMgewoJCS8vIGFkZCB0byBpbnZlbnRvcnkKCQlvaywgZXJyIDo9IHVSZXBvLlJlcGxlbmlzaChpdGVtLCBkZWNpbWFsLk5ldyhyYW5kLkludDYzbigxMCksIDApKQoJCWlmICFvayB8fCBlcnIgIT0gbmlsIHsKCQkJZm10LlByaW50bG4oIlJlcGxlbmlzaCBmYWlsZWQsIHRyeSBhZ2FpbiBsYXRlci4uLiIpCgkJCWJyZWFrCgkJfQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJsaWJzL3BsaXZvZGIvZGJjZmciCg==</text>
+        <text encoding="base64">ZnVuYyBUZXN0X2ZpbmRJdGVtQmFsYW5jZUluTGVkZ2VyKHQgKnRlc3RpbmcuVCkgewoJdHlwZSBhcmdzIHN0cnVjdCB7CgkJaXRlbSBtb2RlbHMuSXRlbQoJfQoJdGVzdHMgOj0gW11zdHJ1Y3QgewoJCW5hbWUgc3RyaW5nCgkJYXJncyBhcmdzCgkJd2FudCBkZWNpbWFsLkRlY2ltYWwKCX17CgkvLyBUT0RPOiBBZGQgdGVzdCBjYXNlcy4KCX0KCWZvciBfLCB0dCA6PSByYW5nZSB0ZXN0cyB7CgkJdC5SdW4odHQubmFtZSwgZnVuYyh0ICp0ZXN0aW5nLlQpIHsKCQkJaWYgZ290IDo9IGZpbmRJdGVtQmFsYW5jZUluTGVkZ2VyKHR0LmFyZ3MuaXRlbSk7ICFyZWZsZWN0LkRlZXBFcXVhbChnb3QsIHR0LndhbnQpIHsKCQkJCXQuRXJyb3JmKCJmaW5kSXRlbUJhbGFuY2VJbkxlZGdlcigpID0gJXYsIHdhbnQgJXYiLCBnb3QsIHR0LndhbnQpCgkJCX0KCQl9KQoJfQp9CgpmdW5jIFRlc3RJbnZlbnRvcnlVc2VjYXNlUmVwb3NpdG9yeV9TYWxlU3VtbWFyeSh0ICp0ZXN0aW5nLlQpIHsKCXR5cGUgYXJncyBzdHJ1Y3QgewoJCWZyb20gdGltZS5UaW1lCgl9Cgl0ZXN0cyA6PSBbXXN0cnVjdCB7CgkJbmFtZSAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nCgkJSW52ZW50b3J5VXNlY2FzZVJlcG9zaXRvcnkgKkludmVudG9yeVVzZWNhc2VSZXBvc2l0b3J5CgkJYXJncyAgICAgICAgICAgICAgICAgICAgICAgYXJncwoJCXdhbnQgICAgICAgICAgICAgICAgICAgICAgIG1hcFsqbW9kZWxzLkl0ZW1dZGVjaW1hbC5EZWNpbWFsCgkJd2FudDEgICAgICAgICAgICAgICAgICAgICAgZGVjaW1hbC5EZWNpbWFsCgl9ewoJLy8gVE9ETzogQWRkIHRlc3QgY2FzZXMuCgl9Cglmb3IgXywgdHQgOj0gcmFuZ2UgdGVzdHMgewoJCXQuUnVuKHR0Lm5hbWUsIGZ1bmModCAqdGVzdGluZy5UKSB7CgkJCWdvdCwgZ290MSA6PSB0dC5JbnZlbnRvcnlVc2VjYXNlUmVwb3NpdG9yeS5TYWxlU3VtbWFyeSh0dC5hcmdzLmZyb20pCgkJCWlmICFyZWZsZWN0LkRlZXBFcXVhbChnb3QsIHR0LndhbnQpIHsKCQkJCXQuRXJyb3JmKCJJbnZlbnRvcnlVc2VjYXNlUmVwb3NpdG9yeS5TYWxlU3VtbWFyeSgpIGdvdCA9ICV2LCB3YW50ICV2IiwgZ290LCB0dC53YW50KQoJCQl9CgkJCWlmICFyZWZsZWN0LkRlZXBFcXVhbChnb3QxLCB0dC53YW50MSkgewoJCQkJdC5FcnJvcmYoIkludmVudG9yeVVzZWNhc2VSZXBvc2l0b3J5LlNhbGVTdW1tYXJ5KCkgZ290MSA9ICV2LCB3YW50ICV2IiwgZ290MSwgdHQud2FudDEpCgkJCX0KCQl9KQoJfQp9CgpmdW5jIFRlc3RJbnZlbnRvcnlVc2VjYXNlUmVwb3NpdG9yeV9JbnZlbnRvcnlTdW1tYXJ5KHQgKnRlc3RpbmcuVCkgewoJdHlwZSBhcmdzIHN0cnVjdCB7CgkJdGlsbCB0aW1lLlRpbWUKCX0KCXRlc3RzIDo9IFtdc3RydWN0IHsKCQluYW1lICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmcKCQlJbnZlbnRvcnlVc2VjYXNlUmVwb3NpdG9yeSAqSW52ZW50b3J5VXNlY2FzZVJlcG9zaXRvcnkKCQlhcmdzICAgICAgICAgICAgICAgICAgICAgICBhcmdzCgkJd2FudCAgICAgICAgICAgICAgICAgICAgICAgbWFwW3V1aWQuVVVJRF1kZWNpbWFsLkRlY2ltYWwKCX17CgkvLyBUT0RPOiBBZGQgdGVzdCBjYXNlcy4KCX0KCWZvciBfLCB0dCA6PSByYW5nZSB0ZXN0cyB7CgkJdC5SdW4odHQubmFtZSwgZnVuYyh0ICp0ZXN0aW5nLlQpIHsKCQkJaWYgZ290IDo9IHR0LkludmVudG9yeVVzZWNhc2VSZXBvc2l0b3J5LkludmVudG9yeVN1bW1hcnkodHQuYXJncy50aWxsKTsgIXJlZmxlY3QuRGVlcEVxdWFsKGdvdCwgdHQud2FudCkgewoJCQkJdC5FcnJvcmYoIkludmVudG9yeVVzZWNhc2VSZXBvc2l0b3J5LkludmVudG9yeVN1bW1hcnkoKSA9ICV2LCB3YW50ICV2IiwgZ290LCB0dC53YW50KQoJCQl9CgkJfSkKCX0KfQoKZnVuYyBUZXN0SW52ZW50b3J5VXNlY2FzZVJlcG9zaXRvcnlfQXBwbHlJdGVtRGlzY291bnQodCAqdGVzdGluZy5UKSB7Cgl0eXBlIGFyZ3Mgc3RydWN0IHsKCQlpdGVtICAgICBtb2RlbHMuSXRlbQoJCWRpc2NvdW50IGludAoJfQoJdGVzdHMgOj0gW11zdHJ1Y3QgewoJCW5hbWUgICAgICAgICAgICAgICAgICAgICAgIHN0cmluZwoJCUludmVudG9yeVVzZWNhc2VSZXBvc2l0b3J5ICpJbnZlbnRvcnlVc2VjYXNlUmVwb3NpdG9yeQoJCWFyZ3MgICAgICAgICAgICAgICAgICAgICAgIGFyZ3MKCX17CgkvLyBUT0RPOiBBZGQgdGVzdCBjYXNlcy4KCX0KCWZvciBfLCB0dCA6PSByYW5nZSB0ZXN0cyB7CgkJdC5SdW4odHQubmFtZSwgZnVuYyh0ICp0ZXN0aW5nLlQpIHsKCQkJdHQuSW52ZW50b3J5VXNlY2FzZVJlcG9zaXRvcnkuQXBwbHlJdGVtRGlzY291bnQodHQuYXJncy5pdGVtLCB0dC5hcmdzLmRpc2NvdW50KQoJCX0pCgl9Cn0KCmZ1bmMgVGVzdEludmVudG9yeVVzZWNhc2VSZXBvc2l0b3J5X0FwcGx5VXNlckRpc2NvdW50KHQgKnRlc3RpbmcuVCkgewoJdHlwZSBhcmdzIHN0cnVjdCB7CgkJdXNlciAgICAgbW9kZWxzLlVzZXIKCQlkaXNjb3VudCBpbnQKCX0KCXRlc3RzIDo9IFtdc3RydWN0IHsKCQluYW1lICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmcKCQlJbnZlbnRvcnlVc2VjYXNlUmVwb3NpdG9yeSAqSW52ZW50b3J5VXNlY2FzZVJlcG9zaXRvcnkKCQlhcmdzICAgICAgICAgICAgICAgICAgICAgICBhcmdzCgl9ewoJLy8gVE9ETzogQWRkIHRlc3QgY2FzZXMuCgl9Cglmb3IgXywgdHQgOj0gcmFuZ2UgdGVzdHMgewoJCXQuUnVuKHR0Lm5hbWUsIGZ1bmModCAqdGVzdGluZy5UKSB7CgkJCXR0LkludmVudG9yeVVzZWNhc2VSZXBvc2l0b3J5LkFwcGx5VXNlckRpc2NvdW50KHR0LmFyZ3MudXNlciwgdHQuYXJncy5kaXNjb3VudCkKCQl9KQoJfQp9CgpmdW5jIFRlc3Rfc29ydEludmVudG9yeSh0ICp0ZXN0aW5nLlQpIHsKCXR5cGUgYXJncyBzdHJ1Y3QgewoJCWxlZGdlciBbXW1vZGVscy5MZWRnZXJFbnRyeQoJfQoJdGVzdHMgOj0gW11zdHJ1Y3QgewoJCW5hbWUgc3RyaW5nCgkJYXJncyBhcmdzCgl9ewoJLy8gVE9ETzogQWRkIHRlc3QgY2FzZXMuCgl9Cglmb3IgXywgdHQgOj0gcmFuZ2UgdGVzdHMgewoJCXQuUnVuKHR0Lm5hbWUsIGZ1bmModCAqdGVzdGluZy5UKSB7CgkJCXNvcnRJbnZlbnRvcnkodHQuYXJncy5sZWRnZXIpCgkJfSkKCX0KfQoKZnVuYyBUZXN0X2NhbGNPcmRlckFtb3VudHModCAqdGVzdGluZy5UKSB7Cgl0eXBlIGFyZ3Mgc3RydWN0IHsKCQlsaW5lSXRlbXMgICAgKltdbW9kZWxzLk9yZGVyTGluZUl0ZW0KCQl1c2VyRGlzY291bnQgaW50Cgl9Cgl0ZXN0cyA6PSBbXXN0cnVjdCB7CgkJbmFtZSAgc3RyaW5nCgkJYXJncyAgYXJncwoJCXdhbnQgIGRlY2ltYWwuRGVjaW1hbAoJCXdhbnQxIGRlY2ltYWwuRGVjaW1hbAoJfXsKCS8vIFRPRE86IEFkZCB0ZXN0IGNhc2VzLgoJfQoJZm9yIF8sIHR0IDo9IHJhbmdlIHRlc3RzIHsKCQl0LlJ1bih0dC5uYW1lLCBmdW5jKHQgKnRlc3RpbmcuVCkgewoJCQlnb3QsIGdvdDEgOj0gQ2FsY09yZGVyQW1vdW50cyh0dC5hcmdzLmxpbmVJdGVtcywgdHQuYXJncy51c2VyRGlzY291bnQpCgkJCWlmICFyZWZsZWN0LkRlZXBFcXVhbChnb3QsIHR0LndhbnQpIHsKCQkJCXQuRXJyb3JmKCJDYWxjT3JkZXJBbW91bnRzKCkgZ290ID0gJXYsIHdhbnQgJXYiLCBnb3QsIHR0LndhbnQpCgkJCX0KCQkJaWYgIXJlZmxlY3QuRGVlcEVxdWFsKGdvdDEsIHR0LndhbnQxKSB7CgkJCQl0LkVycm9yZigiQ2FsY09yZGVyQW1vdW50cygpIGdvdDEgPSAldiwgd2FudCAldiIsIGdvdDEsIHR0LndhbnQxKQoJCQl9CgkJfSkKCX0KfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJnbXIvbGlicy9wbGl2b2RiIgo=</text>
+        <text encoding="base64">CQkJLy8gVE9ETyBtdWx0aXBsZSBpdGVtIG9yZGVyLCB1c2VyIGRpc2Nvb3VudCwgYmF0bW4gZGlzY291bnQKCQkJbmFtZTogICAgICAgICAgICAgICAgICAgICAgICIiLAoJCQlJbnZlbnRvcnlVc2VjYXNlUmVwb3NpdG9yeTogdGVzdFJlcG8sCgkJCWFyZ3M6IGFyZ3N7CgkJCQlsaW5lSXRlbXM6ICAgIG5pbCwKCQkJCXVzZXJJZDogICAgICAgdXVpZC5VVUlEe30sCgkJCQl1c2VyRGlzY291bnQ6IDAsCgkJCX0sCgkJCXdhbnQ6ICAgIGRlY2ltYWwuRGVjaW1hbHt9LAoJCQl3YW50RXJyOiBmYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFNpbXBsZSBsb2dnaW5nIHdpdGggbG9nIGxldmVsIGRlYnVnIGFuZCBzeXNsb2cgZmFjaWxpdHkgc2V0IHRvICd1c2VyJyBhbmQgbGV2ZWwgdG8gZGVidWcKICAgIExvZyA6PSBwbGl2b2xvZy5Jbml0KDAsIDAsICIvdmFyL2xvZy9wbGl2by5sb2ciKQogICAgCiAgICAvLyBTZXQgbG9nIGxldmVsIHRvIGluZm8gd2hpbGUgbG9nZ2luZyB0byBsb2dmaWxlCiAgICBpbXBvcnQgImdpdGh1Yi5jb20vU2lydXBzZW4vbG9ncnVzIgogICAgTG9nIDo9IHBsaXZvbG9nLkluaXQobG9ncnVzLkluZm9MZXZlbCwgMCwgIi92YXIvbG9nL3BsaXZvLmxvZyIpCiAgICAKICAgIC8vIFNldCBsb2cgbGV2ZWwgdG8gaW5mbyBmb3IgbG9nZ2luZyB0byBhIGxvZyBmaWxlCiAgICAvLyBhbmQgZmFjaWxpdHkgdG8gJ3VzZXInIGFuZCBsb2cgbGV2ZWwgdG8gaW5mbyBmb3Igc3lzbG9nIGxvZ2dpbmcKICAgIGltcG9ydCAiZ2l0aHViLmNvbS9TaXJ1cHNlbi9sb2dydXMiCiAgICBpbXBvcnQgImxvZy9zeXNsb2ciCiAgICBMb2cgOj0gcGxpdm9sb2cuSW5pdChsb2dydXMuSW5mb0xldmVsLCBzeXNsb2cuTE9HX1VTRVJ8c3lzbG9nLkxPR19JTkZPLCAiL3Zhci9sb2cvcGxpdm8ubG9nIikK</text>
+        <text encoding="base64">CQkJSXRlbTogICAgICAgICAgICAqZk0uR2V0TW9ja2VkSXRlbSgxKSwKCQkJUXVhbnRpdHk6ICAgICAgICAyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJsb2ciCg==</text>
+        <text encoding="base64">CQl7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnRyb2xsZXJzLkNsaS5SZXBsZW5pc2hTdG9jaygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXBsaXZvbG9nLk9wdGlvbk5vdGVzKG5vdGVzKSkK</text>
+        <text encoding="base64">CQljLnB1cmNoYXNlVXNlckRpc2NvdW50KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Ly8gZm9yIHRlc3RhYmlsaXR5CmZ1bmMgKGMgKkNsaUNvbnRyb2xsZXIpIENsZWFyQ29udHJvbGxlckNhY2hlKCkgewoJYy5saW5lSXRlbXMgPSBbXW1vZGVscy5PcmRlckxpbmVJdGVte30KCWMuaXRlbXMgPSBbXW1vZGVscy5JdGVte30KCWMucHVyY2hhc2VVc2VyRGlzY291bnQgPSAwCgljLnB1cmNoYXNlVXNlcklkID0gdXVpZC5OaWwKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIEF1ZGl0IGxvZyB3aXRoIG9wdGlvbnMKCWwuQXVkaXRMb2coIk1BMTIzNDU2Nzg5MCIsICJNQUtFX0NBTEwiLCAiQVBJIiwgIkNhbGwgQVBJIGluaXRpYXRlZCIsICJTVUNDRVNTIikKCg==</text>
+        <text encoding="base64">CWl0ZW1zICAgICBbXW1vZGVscy5JdGVtCglsaW5lSXRlbXMgW11tb2RlbHMuT3JkZXJMaW5lSXRlbQoJY3VzdG9tZXJzIFtdbW9kZWxzLkN1c3RvbWVyCgllbXBsb3llZXMgW11tb2RlbHMuRW1wbG95ZWUKCglwdXJjaGFzZVVzZXJJZCAgdXVpZC5VVUlECglwdXJjaGFzZVVzZXJEaXNjb3VudCBpbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWxvZy5hdWRpdGxvZyhhY3Rpb249IlZFUklGWV9DQyIsIGFjdG9yPSJzdXBwb3J0LXVzZXJAcGxpdm8uY29tIiwgYWN0b3JfdHlwZT0iQURNSU4iLAoJCW1lc3NhZ2U9IlZlcmlmaXlpbmcgY3JlZGl0IGNhcmQgZm9yIHVzZXIiLAoJCXN1YmplY3Q9InVzZXJAZW1haWwuY29tIiwgc3ViamVjdF90eXBlPSJVU0VSIiwKCQlub3Rlcz17ImNhcmRfaWQiOiAiY2FfMjM0MjM0MjIzNCJ9LCBzdGF0dXM9IlNVQ0NFU1MiKQo=</text>
+        <text encoding="base64">CSJjcnlwdG8vcmFuZCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>clear</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>clear</last-pattern>
       <last-replace />
-      <last-substitute>,</last-substitute>
+      <last-substitute>models\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>teardo</entry>
-        <entry encoding="base64">XDx1cGRhdGVDb3VudFw+</entry>
-        <entry encoding="base64">XDxmdW5jXD4=</entry>
-        <entry encoding="base64">XDxnZXRVcGRhdGVPYmplY3RcPg==</entry>
-        <entry>url</entry>
-        <entry encoding="base64">XDxiYWxhbmNlU3ZjVXJsXD4=</entry>
-        <entry>config.</entry>
-        <entry>config.ini</entry>
         <entry>updateCoun</entry>
         <entry encoding="base64">XDxQTG9nXD4=</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
@@ -385,11 +385,16 @@
         <entry encoding="base64">XDxzZXZlcml0eU1hc2tcPg==</entry>
         <entry>initial</entry>
         <entry>log</entry>
+        <entry encoding="base64">XDxzaW5nbGVMaW5lSXRlbVw+</entry>
+        <entry encoding="base64">XDxDbGVhckNvbnRyb2xsZXJDYWNoZVw+</entry>
+        <entry encoding="base64">XDxjb250cm9sbGVyc1w+</entry>
+        <entry>setup</entry>
+        <entry encoding="base64">XDxpdGVtc1w+</entry>
+        <entry>CliController</entry>
+        <entry>models\.</entry>
+        <entry>clear</entry>
       </history-search>
       <history-cmd>
-        <entry>Q</entry>
-        <entry encoding="base64">JzwsJz5zL2N0eC4vL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL2FjYy5JZC9hY2NJZC9n</entry>
         <entry>%s/Updated/credit:updated/g</entry>
         <entry>252</entry>
         <entry>qa</entry>
@@ -406,6 +411,9 @@
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry>e</entry>
         <entry>d</entry>
+        <entry>%s/CliController/Mocks/g</entry>
+        <entry>%s/models\.//g</entry>
+        <entry>reg</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
