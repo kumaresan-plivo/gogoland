@@ -18,12 +18,12 @@
         <mark key="." line="33" column="6" />
         <mark key="^" line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" timestamp="1512589401305">
-        <mark key="'" line="131" column="0" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-        <mark key="^" line="92" column="51" />
+      <file name="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" timestamp="1512590864466">
+        <mark key="'" line="130" column="53" />
+        <mark key="[" line="181" column="20" />
+        <mark key="]" line="181" column="20" />
+        <mark key="." line="181" column="20" />
+        <mark key="^" line="181" column="19" />
       </file>
       <file name="$USER_HOME$/src/gmr/private/src/libs/plivodb/trunk.go" timestamp="1510758475201">
         <mark key="[" line="3" column="6" />
@@ -120,12 +120,12 @@
         <mark key="^" line="134" column="58" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" timestamp="1512589769235">
+      <file name="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" timestamp="1512590651502">
         <mark key="'" line="40" column="19" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="4" />
-        <mark key="." line="131" column="4" />
-        <mark key="^" line="131" column="102" />
+        <mark key="[" line="202" column="9" />
+        <mark key="]" line="203" column="4" />
+        <mark key="." line="203" column="4" />
+        <mark key="^" line="203" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1510758478869">
         <mark key="[" line="0" column="0" />
@@ -163,6 +163,9 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/dlv-debug.txt" timestamp="1512590844805">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/gmr/libs/plivodb/credit.go" timestamp="1510758288354">
         <mark key="[" line="5" column="0" />
@@ -218,8 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
-      <jump line="107" column="33" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
       <jump line="122" column="0" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
       <jump line="117" column="47" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
       <jump line="223" column="25" filename="$USER_HOME$/src/balance_service/src/benchmarking/benchmark_test.go" />
@@ -318,55 +319,57 @@
       <jump line="93" column="23" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
       <jump line="123" column="5" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
       <jump line="40" column="19" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="182" column="43" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
+      <jump line="130" column="53" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oZW50cnkuSXRlbS5JZC5TdHJpbmcoKSwgaXRlbS5JZC5TdHJpbmcoKSwgaXRlbS5OYW1lKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kSXRlbUJhbGFuY2VJbkxlZGdlclw+</text>
+        <text encoding="base64">XDxMaW5lSXRlbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcHJpbnQoZmFrZU1vZGVscy5MaW5lSXRlbXNbMF0uSXRlbS5OYW1lKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGVudHJ5Lkl0ZW0uSWQuU3RyaW5nKCksIGl0ZW0uSWQuU3RyaW5nKCksIGl0ZW0uTmFtZSwgZW50cnkuQmFsYW5jZS5TdHJpbmcoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oZW50cnkuSXRlbS5JZC5TdHJpbmcoKSwgaXRlbS5JZC5TdHJpbmcoKSwgaXRlbS5OYW1lKQo=</text>
+        <text encoding="base64">CXByaW50KGZha2VNb2RlbHMuUHVyY2hhc2VVc2VySWQuU3RyaW5nKCkgKyAiLi4uLiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcHJpbnQoZmFrZU1vZGVscy5MaW5lSXRlbXNbMF0uSXRlbS5OYW1lKQo=</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oZW50cnkuSXRlbS5JZC5TdHJpbmcoKSwgaXRlbS5JZC5TdHJpbmcoKSwgaXRlbS5OYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXByaW50KG9wdElkLlN0cmluZygpLCBjLklkLlN0cmluZygpKQo=</text>
+        <text encoding="base64">CQkJcHJpbnQoZmFrZU1vZGVscy5MaW5lSXRlbXNbMF0uSXRlbS5OYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiBvcHQuVGV4dCA9PSAiIiB7CgkJCWJyZWFrCgkJfQo=</text>
+        <text encoding="base64">CQkJCXByaW50KG9wdElkLlN0cmluZygpLCBjLklkLlN0cmluZygpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIGNsZWFyIHN0YWxlIGxpbmUgaXRlbXMKCWZha2VNb2RlbHMuQ2xlYXJNb2NrTW9kZWxDYWNoZSgpCg==</text>
+        <text encoding="base64">CQlpZiBvcHQuVGV4dCA9PSAiIiB7CgkJCWJyZWFrCgkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlmbXQuUHJpbnRsbihmYWtlTW9kZWxzLlB1cmNoYXNlVXNlcklkLCBmYWtlTW9kZWxzLlB1cmNoYXNlVXNlckRpc2NvdW50LCBvcHRJZC5TdHJpbmcoKSkK</text>
+        <text encoding="base64">CS8vIGNsZWFyIHN0YWxlIGxpbmUgaXRlbXMKCWZha2VNb2RlbHMuQ2xlYXJNb2NrTW9kZWxDYWNoZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihmYWtlTW9kZWxzLlB1cmNoYXNlVXNlcklkLCBmYWtlTW9kZWxzLlB1cmNoYXNlVXNlckRpc2NvdW50LCBvcHRJZC5TdHJpbmcoKSkK</text>
+        <text encoding="base64">CQkJCQlmbXQuUHJpbnRsbihmYWtlTW9kZWxzLlB1cmNoYXNlVXNlcklkLCBmYWtlTW9kZWxzLlB1cmNoYXNlVXNlckRpc2NvdW50LCBvcHRJZC5TdHJpbmcoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwcmludChvcHQuVGV4dCwgb3B0LlZhbHVlLCBvcHQuSUQpCg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihmYWtlTW9kZWxzLlB1cmNoYXNlVXNlcklkLCBmYWtlTW9kZWxzLlB1cmNoYXNlVXNlckRpc2NvdW50LCBvcHRJZC5TdHJpbmcoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaW50KGZha2VNb2RlbHMuUHVyY2hhc2VVc2VySWQuU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">CQlwcmludChvcHQuVGV4dCwgb3B0LlZhbHVlLCBvcHQuSUQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kSXRlbUJhbGFuY2VJbkxlZGdlclw+</last-search>
+      <last-search encoding="base64">XDxMaW5lSXRlbXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kSXRlbUJhbGFuY2VJbkxlZGdlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxMaW5lSXRlbXNcPg==</last-pattern>
       <last-replace />
       <last-substitute>models\.</last-substitute>
       <last-dir>1</last-dir>
@@ -374,7 +377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>initial</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxzaW5nbGVMaW5lSXRlbVw+</entry>
         <entry encoding="base64">XDxDbGVhckNvbnRyb2xsZXJDYWNoZVw+</entry>
@@ -394,6 +396,7 @@
         <entry encoding="base64">XDxQdXJjaGFzZU1lbnVcPg==</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxmaW5kSXRlbUJhbGFuY2VJbkxlZGdlclw+</entry>
+        <entry encoding="base64">XDxMaW5lSXRlbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Updated/credit:updated/g</entry>
