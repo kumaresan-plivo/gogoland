@@ -18,11 +18,11 @@
         <mark key="." line="33" column="6" />
         <mark key="^" line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" timestamp="1512594793322">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="151" column="0" />
+      <file name="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" timestamp="1512597958979">
+        <mark key="[" line="219" column="27" />
+        <mark key="]" line="220" column="39" />
+        <mark key="." line="220" column="39" />
+        <mark key="^" line="220" column="39" />
       </file>
       <file name="$USER_HOME$/src/gmr/private/src/libs/plivodb/trunk.go" timestamp="1510758475201">
         <mark key="[" line="3" column="6" />
@@ -119,12 +119,12 @@
         <mark key="^" line="134" column="58" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" timestamp="1512595495900">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="147" column="55" />
-        <mark key="]" line="147" column="58" />
-        <mark key="^" line="147" column="58" />
-        <mark key="." line="147" column="58" />
+      <file name="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" timestamp="1512598837391">
+        <mark key="'" line="208" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="171" column="19" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1510758478869">
         <mark key="[" line="0" column="0" />
@@ -163,7 +163,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/dlv-debug.txt" timestamp="1512591278302">
+      <file name="/dlv-debug.txt" timestamp="1512595719297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/gmr/libs/plivodb/credit.go" timestamp="1510758288354">
@@ -233,15 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="29" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
-      <jump line="84" column="32" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
-      <jump line="95" column="20" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
-      <jump line="96" column="14" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
-      <jump line="98" column="14" filename="$USER_HOME$/gopath/src/github.com/Sirupsen/logrus/entry.go" />
-      <jump line="110" column="11" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
-      <jump line="4" column="4" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
-      <jump line="90" column="17" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
-      <jump line="118" column="34" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
       <jump line="80" column="4" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
       <jump line="99" column="23" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
       <jump line="155" column="0" filename="$USER_HOME$/src/go-plivolog/plivolog/plivolog.go" />
@@ -298,13 +289,11 @@
       <jump line="114" column="12" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
       <jump line="131" column="0" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
       <jump line="123" column="5" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
-      <jump line="40" column="19" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
       <jump line="130" column="53" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
       <jump line="202" column="8" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
       <jump line="205" column="8" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
       <jump line="215" column="4" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
       <jump line="4" column="5" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
-      <jump line="93" column="8" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
       <jump line="137" column="32" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
       <jump line="144" column="8" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
       <jump line="171" column="16" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
@@ -333,65 +322,74 @@
       <jump line="155" column="8" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
       <jump line="166" column="8" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
       <jump line="167" column="8" filename="$USER_HOME$/src/inventory-mgmt/src/controllers/cli.go" />
+      <jump line="193" column="22" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="29" column="8" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="14" column="0" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="40" column="27" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="42" column="22" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="49" column="21" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="93" column="31" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="95" column="26" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="96" column="15" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="179" column="5" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
+      <jump line="209" column="0" filename="$USER_HOME$/src/inventory-mgmt/src/usecases/inventory_usecases.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Order</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Order</text>
+        <text>val</text>
       </register>
       <register name="/" type="4">
-        <text>Println</text>
+        <text>fmt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50SW52ZW50b3J5KGludmVudG9yeSkK</text>
+        <text encoding="base64">CQkJCXN1bW1hcnlbZW50cnkuSXRlbS5JZF0gPSBzdW1tYXJ5W2VudHJ5Lkl0ZW0uSWRdLkFkZChlbnRyeS5EZWJpdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZvciBrLCB2IDo9IHJhbmdlIGludmVudG9yeSB7CgkJdmFyIGl0ZW0gbW9kZWxzLkl0ZW0KCQlmb3IgaSA6PSAwOyBpIDwgbGVuKGZha2VNb2RlbHMuSXRlbXMpOyBpKysgewoJCQlpZiBrID09IGZha2VNb2RlbHMuSXRlbXNbaV0uSWQgewoJCQkJaXRlbSA9IGZha2VNb2RlbHMuSXRlbXNbaV0KCQkJfQoJCX0KCQlmbXQuUHJpbnRmKCIlcyhJZCAlcywgU0tVOiAlcywgUHJpY2UgJXMpIDogJXNcbiIsCgkJCWl0ZW0uTmFtZSwgaXRlbS5JZCwgaXRlbS5Ta3VJZCwgaXRlbS5QcmljZS5TdHJpbmdGaXhlZENhc2goNSksIHYuU3RyaW5nKCkpCgl9Cg==</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY05hbWUoCg==</text>
+        <text encoding="base64">Zm10LlByaW50bG4obmV0QW1vdW50LlN0cmluZ0ZpeGVkQ2FzaCg1KSwgZGlzY291bnQuU3RyaW5nKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlcyhJZCAlcywgU0tVOiAlcywgUHJpY2UgJXMpIDogJXNcbiIsCgkJCWl0ZW0uTmFtZSwgaXRlbS5JZCwgaXRlbS5Ta3VJZCwgaXRlbS5QcmljZS5TdHJpbmdGaXhlZENhc2goNSksIHYuU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">CQkJCWlmIHUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCIqKiogIiwgZmFrZU1vZGVscy5MaW5lSXRlbXNbMF0uSXRlbS5OYW1lLCBmYWtlTW9kZWxzLkxpbmVJdGVtc1swXS5JdGVtLklkLlN0cmluZygpKQo=</text>
+        <text encoding="base64">CQkJCX0KCQkJCWlmIHUK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHVzZXJEaXNjb3VudERlYy5TdHJpbmcoKSwgbmV0QW1vdW50LCBncm9zc0Ftb3VudCkK</text>
+      <register name="5" type="4">
+        <text>uid.Equal(summary[entry.Item.Id], uuid.Nil) {
+				}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihsaW5lLlF1YW50aXR5LCBpdGVtUXR5LCBncm9zc0Ftb3VudCwgbGluZS5JdGVtLlByaWNlKQo=</text>
+        <text encoding="base64">CQkJCQkvL2RvIHNvbWV0aGluZyBoZXJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWZtdC5QcmludGxuKGVudHJ5Lkl0ZW0uSWQuU3RyaW5nKCksIGl0ZW0uSWQuU3RyaW5nKCksIGl0ZW0uTmFtZSwgZW50cnkuQmFsYW5jZS5TdHJpbmcoKSkK</text>
+        <text encoding="base64">CQkJCQlzdW1tYXJ5W2VudHJ5Lkl0ZW0uSWRdID0gZW50cnkuQmFsYW5jZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihsaW5lLkl0ZW0uSWQuU3RyaW5nKCksIGxpbmUuSXRlbS5OYW1lLCBpdGVtUXR5LlN0cmluZygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CQkJCXN1bW1hcnlbZW50cnkuSXRlbS5JZF0gPSBzdW1tYXJ5W2VudHJ5Lkl0ZW0uSWRdLkFkZChlbnRyeS5EZWJpdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Println</last-search>
+      <last-search>fmt</last-search>
       <last-offset />
-      <last-pattern>Println</last-pattern>
+      <last-pattern>fmt</last-pattern>
       <last-replace />
       <last-substitute>models\.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setup</entry>
-        <entry encoding="base64">XDxpdGVtc1w+</entry>
-        <entry>CliController</entry>
         <entry>models\.</entry>
         <entry>clear</entry>
         <entry encoding="base64">XDxyYW5nZVw+</entry>
@@ -404,11 +402,14 @@
         <entry encoding="base64">XDxQdXJjaGFzZU1lbnVcPg==</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxmaW5kSXRlbUJhbGFuY2VJbkxlZGdlclw+</entry>
-        <entry>fmt</entry>
         <entry encoding="base64">XDxMaW5lSXRlbXNcPg==</entry>
         <entry>UserMenu</entry>
         <entry>Sales</entry>
         <entry>Println</entry>
+        <entry encoding="base64">XDxncm9zc0Ftb3VudFw+</entry>
+        <entry>balance</entry>
+        <entry encoding="base64">XDxzb3J0SW52ZW50b3J5XD4=</entry>
+        <entry>fmt</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Updated/credit:updated/g</entry>
